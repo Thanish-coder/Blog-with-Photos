@@ -1,0 +1,34 @@
+body {
+    background-image: url(images/Background.png);
+    text-align: center;
+    cursor: pointer;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.row .img img {
+    height: 168px;
+    width: 300px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.img {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: ghostwhite;
+}
+
+h1 {
+    cursor: pointer;
+}
+
+h2 {
+    cursor: pointer;
+}
+.
